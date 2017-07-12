@@ -1,22 +1,21 @@
-title: Strata by HTML5 UP
+title: Marcos Pereira Jr
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  **Marcos Pereira JR**, Engenheiro de Software
+  na Agriness.
+copyright: Marcos Pereira
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
+disqus_shortname: "http-marcospereirajr-com-br"
+facebook_username: "marcospereira.mpj"
+twitter_username: "_marcos_pereira"
+linkedin_username: "marcospereirampj"
+instagram_username: "marcospereira_mpj"
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  "marcospereirampj"
 feed_icon: rss
-email: "#"
+email: "marcospereira.mpj@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
