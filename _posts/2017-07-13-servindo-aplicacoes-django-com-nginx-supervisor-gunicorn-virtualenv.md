@@ -3,7 +3,7 @@ layout: post
 title:  "Servindo Aplicações Django com NGINX + Supervisor + Gunicorn + Virtualenv"
 date:   2017-07-13 22:16:11 +0000
 categories: python
-image:  /preview.jpg
+image:  /images/posts/arquitetura.png
 ---
 
 Existem diversas maneiras de disponibilizar aplicações web escritas em **Python**. Atualmente tenho utilizado bastante a solução que combina o uso do `NGINX`, `Supervisor`, `Gunicorn` e `virtualenv`.
