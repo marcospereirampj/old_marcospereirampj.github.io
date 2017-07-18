@@ -2,7 +2,7 @@
 layout: post
 title:  "Melhorando suas Habilidades: Práticas de Programação"
 date:   2017-07-18 00:10:11 +0000
-categories: python
+categories: programming
 image:  /preview.png
 ---
 
@@ -16,10 +16,10 @@ Basicamente, eu utilizo duas plataformas:
 
 Além dessas, existem muitas outras que não utilizo com tanta frequência. A seguir mais algumas indicações:
 
-1.	https://codility.com/
-2.	http://www.exercism.io/ (by [@tiagocedrim](https://github.com/tiagocedrim))
-3.	https://www.codewars.com/ (by [@tiagocedrim](https://github.com/tiagocedrim))
-4.	https://checkio.org/ (by [@marcelodufe](https://github.com/marcelodufe)
+1.	[Codility](https://codility.com/)
+2.	[Exercism](http://www.exercism.io/) (by [@tiagocedrim](https://github.com/tiagocedrim))
+3.	[Codewars](https://www.codewars.com/) (by [@tiagocedrim](https://github.com/tiagocedrim))
+4.	[CheckIO](https://checkio.org/) (by [@marcelodufe](https://github.com/marcelodufe))
 
 Bom, pessoal. Espero que essas plataformas possam ajudá-los a melhorar suas habilidades.
 

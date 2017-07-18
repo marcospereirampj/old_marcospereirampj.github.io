@@ -2,7 +2,7 @@
 layout: post
 title:  "Começando do zero!"
 date:   2017-07-11 20:15:11 +0000
-categories: geral
+categories: general
 image:  /preview.png
 ---
 
