@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Práticas de Programação"
+title:  "Melhorando suas Habilidades: Práticas de Programação"
 date:   2017-07-18 00:10:11 +0000
 categories: python
 image:  /preview.png
