@@ -1,20 +1,18 @@
 ---
 layout: post
 title:  "Práticas de Programação"
-date:   2017-07-18 22:16:11 +0000
+date:   2017-07-18 00:10:11 +0000
 categories: python
 image:  /preview.png
 ---
-
-Eae pessoal!
 
 Essa semana, eu e alguns amigos estamos em uma competição para saber quem resolver a maior quantidade de problemas na [CodeFights](https://codefights.com/signup/fGHtgqJBK8jhPDxoT/main). A partir daí, me veio a ideia de listar algumas plataformas que podem ajudar a praticar programação.
 
 Basicamente, eu utilizo duas plataformas:
 
-* **[HackerRank]( https://www.hackerrank.com)**: eles oferecem a possibilidade de você realizar treinamentos desde do básico ao avançado em determinadas linguagens (Python, Ruby, Java, C/C++, etc) ou áreas (SQL, IA, Segurança, Programação Funcional, etc.). A medida que os testes são realizados, você vai ganhando *“badges”*. Nessa plataforma também são realizados testes para seleções.
+* **[HackerRank](https://www.hackerrank.com)**: eles oferecem a possibilidade de você realizar treinamentos desde do básico ao avançado em determinadas linguagens (Python, Ruby, Java, C/C++, etc) ou áreas (SQL, IA, Segurança, Programação Funcional, etc.). A medida que os testes são realizados, você vai ganhando *“badges”*. Nessa plataforma também são realizados testes para seleções.
 
-* **[CodeFights](https://codefights.com/signup/fGHtgqJBK8jhPDxoT/main)**: essa é uma das plataformas que mais venho gostando de utilizar. Além de oferecer uma disputa saudável entre amigos, eles oferecem a possibilidade de práticas para entrevistas ou treinamento com *bots* de grandes empresas. Caso queiram se inscrever, utilizem esse (link)[https://codefights.com/signup/fGHtgqJBK8jhPDxoT/main] e ajudem um amigo a ganhar alguns pontos. :)
+* **[CodeFights](https://codefights.com/signup/fGHtgqJBK8jhPDxoT/main)**: essa é uma das plataformas que mais venho gostando de utilizar. Além de oferecer uma disputa saudável entre amigos, eles oferecem a possibilidade de práticas para entrevistas ou treinamento com *bots* de grandes empresas. Caso queiram se inscrever, utilizem esse [link](https://codefights.com/signup/fGHtgqJBK8jhPDxoT/main) e ajudem um amigo a ganhar alguns pontos. :)
 
 Além dessas, existem muitas outras que não utilizo com tanta frequência. A seguir mais algumas indicações:
 
