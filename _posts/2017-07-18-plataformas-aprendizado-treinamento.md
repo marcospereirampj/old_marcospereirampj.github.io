@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Melhorando suas Habilidades: Práticas de Programação"
-date:   2017-07-18 00:10:11 +0000
+date:   2017-07-18 00:10:11 +0300
 categories: programming
 image:  /preview.png
 ---
