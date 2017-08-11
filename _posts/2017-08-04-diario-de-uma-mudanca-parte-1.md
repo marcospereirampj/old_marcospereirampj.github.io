@@ -6,7 +6,7 @@ categories: general
 image:  /preview.png
 ---
 
-Há pouco mais de um mês, sai da minha cidade natal, Maceió/AL, e me mudei definitivamente para Florianópolis/SC. Deixei para trás família, amigos, casa, conforto e antigo emprego para enfrentar um novo desafio.
+Há pouco mais de um mês, saí da minha cidade natal, Maceió/AL, e me mudei definitivamente para Florianópolis/SC. Deixei para trás família, amigos, casa, conforto e antigo emprego para enfrentar um novo desafio.
 
 Apesar de já ter passado um bom tempo entre Maceió, São Paulo e Rio de Janeiro, dessa vez é diferente. Dessa vez não poderei voltar para cidade que nasci e que tanto gosto, pelo menos por enquanto. Dessa vez a mudança não será temporária, será definitiva.
 
