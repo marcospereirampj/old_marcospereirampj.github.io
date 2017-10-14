@@ -41,8 +41,6 @@ Felizmente, no fim encontrei um apartamento a cerca de 600 metros do trabalho (u
 
 Bom pessoal! É isso!
 
-Aqui encerramos essa série de postagens e voltamos a normalidade.
-
-Na próxima postagem falarei um pouco sobre **Microserviços**. Então, até lá!
+Aqui encerramos essa série de postagens e voltamos a normalidade. Na próxima postagem falarei um pouco sobre **Microserviços**. Então, até lá!
 
 Abraços
