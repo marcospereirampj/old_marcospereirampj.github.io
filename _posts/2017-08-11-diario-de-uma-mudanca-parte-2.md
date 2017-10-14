@@ -6,7 +6,7 @@ categories: general
 image:  /images/posts/aviao.jpg
 ---
 
-Dando continuidade a história do processo de mudança de cidade/emprego que venho passado, na postagem dessa semana irei compartilhar com vocês como foi a etapa de saída de Maceió/AL. Compartilharei como uma reorganização financeira antecipada e a escolha da empresa certa facilitaram essa etapa.
+Dando continuidade a história do processo de mudança de cidade/emprego que venho passando, na postagem dessa semana irei compartilhar com vocês como foi a etapa de saída de Maceió/AL. Compartilharei como uma reorganização financeira antecipada e a escolha da empresa certa facilitaram essa etapa.
 
 Vamos lá!
 
@@ -47,7 +47,7 @@ Como falei na [Parte 1](http://marcospereirajr.com.br/general/2017/08/03/diario-
 
 * **Perfil da empresa**: esse foi o fator mais relevante que considerei durante a busca pelo novo emprego. Acredito que quando o perfil da empresa se encaixa com o seu, a realização das atividades flui mais facilmente e sem desgastes. Por isso, ao meu ver era importante saber que participaria de uma equipe integrada, focada e sem muitos vícios. Em outras palavras, buscava uma empresa onde a meta estivesse clara, a equipe estivesse empenhada e os fatores externos fossem bem controlados/monitorados. Além disso, era importante saber que poderia contar com a empresa durante os primeiros momentos de adaptação.
 
-  *(Nesse ponto agradeço a presteza dada por de Aline, Elton e Gustavo da [Agriness](http://www.agriness.com/pt/). Com o apoio deles, todas as etapas da minha mudança foram extremamente controladas.)*
+  *(Nesse ponto agradeço a presteza dada por Aline, Elton e Gustavo da [Agriness](http://www.agriness.com/pt/). Com o apoio deles, todas as etapas da minha mudança foram extremamente controladas.)*
 
 ## Passagem comprada, roupas na mala, partiu Floripa!
 
