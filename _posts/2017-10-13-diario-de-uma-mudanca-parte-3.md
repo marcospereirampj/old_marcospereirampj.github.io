@@ -37,7 +37,7 @@ O maior desafio que enfrentei no primeiro mês foi o de encontrar um apartamento
 
 Visitei vários apartamentos e gostei de muitos deles, mas parecia que todo mundo estava de mudança para Florianópolis! Praticamente todos estavam com fila de reserva e quando encontrava um livre, a imobiliária exigia uma infinidade de documentos, meus e de meus pais (parte desses documentos tinha que vir de Maceió, ou seja, mais demora!).
 
-Felizmente, no fim encontrei um apartamento a cerca de 600 metros do trabalho (uma caminhada super agradável de menos de 10 minutos! :D ). Entretanto, o lado ruim é que ele estava vazio. Então, tive que arcar com a compra de vários móveis, eletros e itens de casa não previsto.
+Felizmente, no fim encontrei um apartamento a cerca de 600 metros do trabalho (uma caminhada super agradável de menos de 10 minutos! :D ). Entretanto, o lado ruim é que ele estava vazio. Então, tive que arcar com a compra de vários móveis, eletros e itens de casa não previstos.
 
 Bom pessoal! É isso!
 
