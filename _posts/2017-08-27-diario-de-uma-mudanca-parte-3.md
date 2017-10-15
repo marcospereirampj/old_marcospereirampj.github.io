@@ -29,7 +29,7 @@ No **PIG**, foram apresentados todos os setores da empresa. Tive a oportunidade 
 
 Quanto a parte técnica, fiquei bastante contente ao ver processos definidos, equipe engajada e competente, e um produto desafiador sendo (re)estruturado. Ainda existe um longo caminho pela frente, mas estamos aqui para isso. \o/
 
-*(Em postagens futuras irei falar um pouco sobre as tecnologias utilizada)*
+*(Em postagens futuras irei falar um pouco sobre as tecnologias utilizadas)*
 
 ## Lar doce Lar
 
