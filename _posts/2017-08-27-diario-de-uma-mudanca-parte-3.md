@@ -31,7 +31,7 @@ Quanto a parte técnica, fiquei bastante contente ao ver processos definidos, eq
 
 *(Em postagens futuras irei falar um pouco sobre as tecnologias utilizada)*
 
-## Lar do Lar
+## Lar doce Lar
 
 O maior desafio que enfrentei no primeiro mês foi o de encontrar um apartamento que fosse perto do trabalho, com algumas mobílias e cujo custo coubesse no bolso.
 
