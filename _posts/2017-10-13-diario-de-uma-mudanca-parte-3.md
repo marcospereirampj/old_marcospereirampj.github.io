@@ -29,15 +29,15 @@ No **PIG**, foram apresentados todos os setores da empresa. Tive a oportunidade 
 
 Quanto a parte técnica, fiquei bastante contente ao ver processos definidos, equipe engajada e competente, e um produto desafiador sendo (re)estruturado. Ainda existe um longo caminho pela frente, mas estamos aqui para isso. \o/
 
-*(Em postagens futuras irei falar um pouco sobre as tecnologias utilizada)*
+*(Em postagens futuras irei falar um pouco sobre as tecnologias utilizadas)*
 
-## Lar do Lar
+## Lar doce Lar
 
 O maior desafio que enfrentei no primeiro mês foi o de encontrar um apartamento que fosse perto do trabalho, com algumas mobílias e cujo custo coubesse no bolso.
 
 Visitei vários apartamentos e gostei de muitos deles, mas parecia que todo mundo estava de mudança para Florianópolis! Praticamente todos estavam com fila de reserva e quando encontrava um livre, a imobiliária exigia uma infinidade de documentos, meus e de meus pais (parte desses documentos tinha que vir de Maceió, ou seja, mais demora!).
 
-Felizmente, no fim encontrei um apartamento a cerca de 600 metros do trabalho (uma caminhada super agradável de menos de 10 minutos! :D ). Entretanto, o lado ruim é que ele estava vazio. Então, tive que arcar com a compra de vários móveis, eletros e itens de casa não previstos.
+Felizmente, no fim encontrei um apartamento a cerca de 600 metros do trabalho (uma caminhada super agradável de menos de 10 minutos! :D ). Entretanto, o lado ruim é que ele estava vazio. Então, tive que arcar com a compra de vários móveis, eletros e itens de casa não previsto.
 
 Bom pessoal! É isso!
 
