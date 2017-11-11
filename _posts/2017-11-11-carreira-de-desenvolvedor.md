@@ -3,7 +3,7 @@ layout: post
 title:  "A Carreira de Desenvolvedor: Do Jr ao Sênior"
 date:   2017-11-11 07:00:00 +0300
 categories: general
-image:  /images/posts/floripa.jpg
+image:  /images/posts/canoinhas.jpg
 ---
 
 
