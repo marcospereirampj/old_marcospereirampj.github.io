@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Django 2 - Getting Started"
+title:  "Getting Started with Django 2"
 date:   2018-01-11 19:00:00 +0300
 categories: django
 image:  /images/posts/django.png
