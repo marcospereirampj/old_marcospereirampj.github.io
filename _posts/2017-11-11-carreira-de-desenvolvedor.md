@@ -7,9 +7,9 @@ image:  /images/posts/canoinhas.jpg
 ---
 
 
-Eai pessoal! Essa semana tive a oportunidade de compartilhar um pouco das minhas experiências profissionais com os alunos no Instituto Federal de Santa Cantarina (Campus Canoinhas) no **I Workshop de Informática**, que aconteceu nos dias 09 e 10 de novembro.
+Eai pessoal! Essa semana tive a oportunidade de compartilhar um pouco das minhas experiências profissionais com os alunos do Instituto Federal de Santa Cantarina (Campus Canoinhas) no **I Workshop de Informática**, que aconteceu nos dias 09 e 10 de novembro.
 
-Com a palestra intitulada **“A carreira de desenvolvedor: do Jr ao Sênior”**, tentei compartilhar dicas e recursos que podem auxiliar no desenvolvimento das habilidades técnicas que o mercado atual exige.
+Com a palestra intitulada **“A Carreira de Desenvolvedor: do Jr ao Sênior”**, tentei compartilhar dicas e recursos que podem auxiliar no desenvolvimento das habilidades técnicas que o mercado atual exige.
 
 A apresentação está disponível no SlideShare ([acesse aqui](https://pt.slideshare.net/marcospereirampj/a-carreira-de-desenvolvedor-do-jr-ao-snior
 )).
