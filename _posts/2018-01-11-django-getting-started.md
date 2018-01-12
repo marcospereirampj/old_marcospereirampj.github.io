@@ -15,4 +15,6 @@ O projeto é uma simples aplicação de categorização de filmes (chamada de Fl
 
 [Repositório do projeto](https://github.com/marcospereirampj/django2-getting-started)
 
+Para a galera com sugestões de melhorias, basta enviar um _PR_ ou criar uma _issue_ no projeto.
+
 Abraços :) 
